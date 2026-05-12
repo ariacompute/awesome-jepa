@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-May 10, 2026 at 03:41:28 AM UTC
+May 12, 2026 at 03:38:16 AM UTC
 
 
 ## Theorem
 
-## Papers (118)
+## Papers (121)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -154,6 +154,9 @@ May 10, 2026 at 03:41:28 AM UTC
 - [Text-Conditional JEPA for Learning Semantically Rich Visual Representations](https://arxiv.org/abs/2605.03245)
 - [DART: A Vision-Language Foundation Model for Comprehensive Rope Condition Monitoring](https://arxiv.org/abs/2605.04943)
 - [AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling](https://arxiv.org/abs/2605.05586)
+- [Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories](https://arxiv.org/abs/2605.10840)
+- [MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image](https://arxiv.org/abs/2605.10616)
+- [Sub-JEPA: Subspace Gaussian Regularization for Stable End-to-End World Models](https://arxiv.org/abs/2605.09241)
 
 
 ## Library
