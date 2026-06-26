@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-June 25, 2026 at 03:58:21 AM UTC
+June 26, 2026 at 04:04:55 AM UTC
 
 
 ## Theorem
 
-## Papers (168)
+## Papers (171)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -204,6 +204,9 @@ June 25, 2026 at 03:58:21 AM UTC
 - [Frequency-Aware Self-Supervised Music Representation Learning](https://arxiv.org/abs/2606.25713)
 - [HiT-JEPA: A Hierarchical Self-supervised Trajectory Embedding Framework for Similarity Computation](https://arxiv.org/abs/2507.00028)
 - [MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning](https://arxiv.org/abs/2606.25225)
+- [A Generalization Theory for JEPA-Based World Models](https://arxiv.org/abs/2606.27014)
+- [Neural Voxel Dynamics: Learning Implicit 3D Physics via Volumetric Feature Advection](https://arxiv.org/abs/2606.26410)
+- [Fast LeWorldModel](https://arxiv.org/abs/2606.26217)
 
 
 ## Library
